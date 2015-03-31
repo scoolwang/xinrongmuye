@@ -1,0 +1,258 @@
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.2.0-67-generic-pae
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          i386
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/jdk1.8.0_31/jre
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_31-b13
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /opt/tomcat
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /opt/tomcat
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/opt/tomcat/conf/logging.properties
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xms512m
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xmx1024m
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:PermSize=600M
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:MaxPermSize=600m
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcom.sun.management.jmxremote
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/opt/tomcat/endorsed
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/opt/tomcat
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/opt/tomcat
+Mar 25, 2015 10:13:05 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/opt/tomcat/temp
+Mar 25, 2015 10:13:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/i386:/lib:/usr/lib
+Mar 25, 2015 10:13:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 10:13:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 10:13:06 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1441 ms
+Mar 25, 2015 10:13:06 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 25, 2015 10:13:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Mar 25, 2015 10:13:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/logs
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/logs has finished in 846 ms
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/docs
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/docs has finished in 154 ms
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/manager
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/manager has finished in 133 ms
+Mar 25, 2015 10:13:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/ROOT
+Mar 25, 2015 10:13:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/ROOT has finished in 3,108 ms
+Mar 25, 2015 10:13:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/host-manager
+Mar 25, 2015 10:13:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/host-manager has finished in 122 ms
+Mar 25, 2015 10:13:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/examples
+Mar 25, 2015 10:13:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/examples has finished in 517 ms
+Mar 25, 2015 10:13:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 10:13:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 10:13:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5052 ms
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.2.0-67-generic-pae
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          i386
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/jdk1.8.0_31/jre
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_31-b13
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /opt/tomcat
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /opt/tomcat
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/opt/tomcat/conf/logging.properties
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xms512m
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xmx1024m
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:PermSize=600M
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:MaxPermSize=600m
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcom.sun.management.jmxremote
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/opt/tomcat/endorsed
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/opt/tomcat
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/opt/tomcat
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/opt/tomcat/temp
+Mar 25, 2015 11:06:35 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/i386:/lib:/usr/lib
+Mar 25, 2015 11:06:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 11:06:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1406 ms
+Mar 25, 2015 11:06:35 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 25, 2015 11:06:35 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Mar 25, 2015 11:06:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/logs
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/logs has finished in 846 ms
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/docs
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/docs has finished in 151 ms
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/manager
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/manager has finished in 136 ms
+Mar 25, 2015 11:06:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/ROOT
+Mar 25, 2015 11:06:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/ROOT has finished in 2,845 ms
+Mar 25, 2015 11:06:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/host-manager
+Mar 25, 2015 11:06:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/host-manager has finished in 125 ms
+Mar 25, 2015 11:06:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/examples
+Mar 25, 2015 11:06:40 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/examples has finished in 512 ms
+Mar 25, 2015 11:06:40 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 11:06:40 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 11:06:40 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4769 ms
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.2.0-67-generic-pae
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          i386
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/jdk1.8.0_31/jre
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_31-b13
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /opt/tomcat
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /opt/tomcat
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/opt/tomcat/conf/logging.properties
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xms512m
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xmx1024m
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:PermSize=600M
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:MaxPermSize=600m
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcom.sun.management.jmxremote
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/opt/tomcat/endorsed
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/opt/tomcat
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/opt/tomcat
+Mar 25, 2015 11:12:31 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/opt/tomcat/temp
+Mar 25, 2015 11:12:31 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/i386:/lib:/usr/lib
+Mar 25, 2015 11:12:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 11:12:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 11:12:32 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1414 ms
+Mar 25, 2015 11:12:32 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 25, 2015 11:12:32 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Mar 25, 2015 11:12:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/logs
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/logs has finished in 845 ms
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/docs
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/docs has finished in 154 ms
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/manager
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/manager has finished in 146 ms
+Mar 25, 2015 11:12:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/ROOT
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/ROOT has finished in 2,697 ms
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/host-manager
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/host-manager has finished in 112 ms
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /opt/tomcat/webapps/examples
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /opt/tomcat/webapps/examples has finished in 543 ms
+Mar 25, 2015 11:12:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Mar 25, 2015 11:12:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 25, 2015 11:12:36 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4650 ms

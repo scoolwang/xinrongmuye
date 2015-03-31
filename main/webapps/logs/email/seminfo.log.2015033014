@@ -1,0 +1,20 @@
+2015-03-30 14:41:13,972  WARN [ApiServlet.java:74] - from ip:117.158.143.101
+2015-03-30 14:41:13,974  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-30 14:41:13,974  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,673,974 - 1,427,697,673,974 = 0 | start
+2015-03-30 14:41:13,983  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,673,974 - 1,427,697,673,983 = 9 | request: /email/select/news
+2015-03-30 14:41:34,049  WARN [ApiServlet.java:74] - from ip:117.158.143.101
+2015-03-30 14:41:34,050  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-30 14:41:34,050  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,694,050 - 1,427,697,694,050 = 0 | start
+2015-03-30 14:41:34,061  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,694,050 - 1,427,697,694,061 = 11 | request: /email/select/product
+2015-03-30 14:41:35,663  WARN [ApiServlet.java:74] - from ip:117.158.143.101
+2015-03-30 14:41:35,664  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-30 14:41:35,664  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,695,664 - 1,427,697,695,664 = 0 | start
+2015-03-30 14:41:35,668  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,695,664 - 1,427,697,695,668 = 4 | request: /email/select/news
+2015-03-30 14:41:50,665  WARN [ApiServlet.java:74] - from ip:117.158.143.101
+2015-03-30 14:41:50,666  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-30 14:41:50,666  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,710,666 - 1,427,697,710,666 = 0 | start
+2015-03-30 14:41:50,676  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,710,666 - 1,427,697,710,676 = 10 | request: /email/select/news
+2015-03-30 14:41:59,563  WARN [ApiServlet.java:74] - from ip:117.158.143.101
+2015-03-30 14:41:59,563  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-30 14:41:59,563  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,719,563 - 1,427,697,719,563 = 0 | start
+2015-03-30 14:41:59,583  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,697,719,563 - 1,427,697,719,582 = 19 | request: /email/select/product

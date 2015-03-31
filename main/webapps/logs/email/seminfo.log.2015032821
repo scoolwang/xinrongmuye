@@ -1,0 +1,36 @@
+2015-03-28 21:13:47,272  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:13:47,273  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:13:47,273  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,427,273 - 1,427,548,427,273 = 0 | start
+2015-03-28 21:13:47,287  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,427,273 - 1,427,548,427,287 = 14 | request: /email/select/news
+2015-03-28 21:15:35,623  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:15:35,624  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:15:35,625  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,535,625 - 1,427,548,535,625 = 0 | start
+2015-03-28 21:15:35,628  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,535,625 - 1,427,548,535,628 = 3 | request: /email/select/product
+2015-03-28 21:15:42,379  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:15:42,380  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:15:42,380  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,542,380 - 1,427,548,542,380 = 0 | start
+2015-03-28 21:15:42,385  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,542,380 - 1,427,548,542,385 = 5 | request: /email/select/news
+2015-03-28 21:16:06,032  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:16:06,033  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:16:06,033  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,566,033 - 1,427,548,566,033 = 0 | start
+2015-03-28 21:16:06,036  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,566,033 - 1,427,548,566,036 = 3 | request: /email/select/newsDetail
+2015-03-28 21:16:34,824  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:16:34,824  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:16:34,825  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,594,825 - 1,427,548,594,825 = 0 | start
+2015-03-28 21:16:34,834  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,548,594,825 - 1,427,548,594,834 = 9 | request: /email/select/news
+2015-03-28 21:34:15,961  WARN [ApiServlet.java:74] - from ip:171.8.250.29
+2015-03-28 21:34:15,962  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:34:15,962  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,549,655,962 - 1,427,549,655,962 = 0 | start
+2015-03-28 21:34:15,969  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,549,655,962 - 1,427,549,655,969 = 7 | request: /email/select/news
+2015-03-28 21:43:24,246  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:43:24,247  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:43:24,247  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,204,247 - 1,427,550,204,247 = 0 | start
+2015-03-28 21:43:24,251  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,204,247 - 1,427,550,204,251 = 4 | request: /email/select/news
+2015-03-28 21:44:40,873  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:44:40,874  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:44:40,874  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,280,874 - 1,427,550,280,874 = 0 | start
+2015-03-28 21:44:40,877  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,280,874 - 1,427,550,280,877 = 3 | request: /email/select/news
+2015-03-28 21:44:52,533  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 21:44:52,533  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 21:44:52,534  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,292,534 - 1,427,550,292,534 = 0 | start
+2015-03-28 21:44:52,537  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,550,292,534 - 1,427,550,292,537 = 3 | request: /email/select/newsDetail

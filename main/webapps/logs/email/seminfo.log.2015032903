@@ -1,0 +1,4 @@
+2015-03-29 03:47:13,273  WARN [ApiServlet.java:74] - from ip:66.249.79.66
+2015-03-29 03:47:13,275  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-29 03:47:13,275  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,572,033,275 - 1,427,572,033,275 = 0 | start
+2015-03-29 03:47:13,283  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,572,033,275 - 1,427,572,033,283 = 8 | request: /email/select/news

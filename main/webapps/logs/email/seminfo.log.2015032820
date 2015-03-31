@@ -1,0 +1,44 @@
+2015-03-28 20:51:31,995  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:51:31,996  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:51:31,997  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,091,997 - 1,427,547,091,997 = 0 | start
+2015-03-28 20:51:32,004  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,091,997 - 1,427,547,092,004 = 7 | request: /email/select/news
+2015-03-28 20:51:44,457  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:51:44,463  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:51:44,464  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,104,464 - 1,427,547,104,464 = 0 | start
+2015-03-28 20:51:44,469  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,104,464 - 1,427,547,104,469 = 5 | request: /email/select/product
+2015-03-28 20:51:46,079  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:51:46,080  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:51:46,080  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,106,080 - 1,427,547,106,080 = 0 | start
+2015-03-28 20:51:46,091  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,106,080 - 1,427,547,106,091 = 11 | request: /email/select/news
+2015-03-28 20:52:12,316  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:12,317  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:12,317  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,132,317 - 1,427,547,132,317 = 0 | start
+2015-03-28 20:52:12,323  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,132,317 - 1,427,547,132,323 = 6 | request: /email/select/news
+2015-03-28 20:52:14,682  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:14,682  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:14,683  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,134,683 - 1,427,547,134,683 = 0 | start
+2015-03-28 20:52:14,687  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,134,683 - 1,427,547,134,687 = 4 | request: /email/select/product
+2015-03-28 20:52:19,492  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:19,494  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:19,494  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,139,494 - 1,427,547,139,494 = 0 | start
+2015-03-28 20:52:19,497  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,139,494 - 1,427,547,139,497 = 3 | request: /email/select/productDetail
+2015-03-28 20:52:28,832  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:28,833  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:28,833  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,148,833 - 1,427,547,148,833 = 0 | start
+2015-03-28 20:52:28,837  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,148,833 - 1,427,547,148,837 = 4 | request: /email/select/product
+2015-03-28 20:52:30,309  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:30,309  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:30,310  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,150,310 - 1,427,547,150,310 = 0 | start
+2015-03-28 20:52:30,320  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,150,310 - 1,427,547,150,320 = 10 | request: /email/select/productDetail
+2015-03-28 20:52:42,021  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:52:42,021  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:52:42,022  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,162,022 - 1,427,547,162,022 = 0 | start
+2015-03-28 20:52:42,026  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,162,022 - 1,427,547,162,026 = 4 | request: /email/select/productDetail
+2015-03-28 20:57:24,463  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:57:24,464  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:57:24,464  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,444,464 - 1,427,547,444,464 = 0 | start
+2015-03-28 20:57:24,473  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,444,464 - 1,427,547,444,473 = 9 | request: /email/select/product
+2015-03-28 20:58:14,982  WARN [ApiServlet.java:74] - from ip:182.119.156.43
+2015-03-28 20:58:14,983  INFO [HibernateSessionFilter.java:18] - Stat: connection[0], sessionOpen[0], sessionClose[0]
+2015-03-28 20:58:14,983  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,494,983 - 1,427,547,494,983 = 0 | start
+2015-03-28 20:58:14,994  INFO [PerfTracker.java:69] - [PerfTracker] 1,427,547,494,983 - 1,427,547,494,994 = 11 | request: /email/select/productDetail
