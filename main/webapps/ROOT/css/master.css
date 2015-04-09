@@ -3,13 +3,13 @@
 
 .head .logo{ height:55px; padding:20px 0;}
 
-.nav{ background:url(../images/nav_bj.jpg) repeat-x; height:40px; line-height:40px;}
+.nav{ background: #249d34; height:40px; line-height:40px;}
 .nav ul li{ float:left}
 .nav ul li a{ color:#FFF; display:block; float:left; font-size:15px; width:166px; text-align:center; }
-.nav ul li a.L{background:url(../images/nav_li.jpg) no-repeat left center}
+
 
 /* 幻灯 */
-	.focusBox { position: relative; width:1000px; height:250px; overflow: hidden; margin:10px auto; }
+	.focusBox { position: relative; width:1000px; height:250px; overflow: hidden; margin:0px auto; }
 	.focusBox .pic img { width:1000px; height:250px; display: block; }
 	.focusBox .hd { overflow:hidden; zoom:1; position:absolute; bottom:5px; right:10px; z-index:3}
 	.focusBox .hd li{float:left; line-height:15px; text-align:center; font-size:12px; width:25px; height:10px; cursor:pointer; overflow:hidden; background:#919191; margin-left:4px; filter:alpha(opacity=80); opacity:.8; -webkit-transition:All .5s ease;-moz-transition:All .5s ease;-o-transition:All .5s ease }
@@ -17,13 +17,13 @@
 
 /* sidebar */
 .sidebar{ width:237px; padding-bottom:10px;}
-.sidebar .title{ background:url(../images/left_title.jpg) no-repeat; height:40px; line-height:40px; color:#FFF; font-size:15px; text-indent:2em;}
+.sidebar .title{ background:#249d34; height:40px; line-height:40px; color:#FFF; font-size:15px; text-indent:2em;}
 .sidebar ul.menu li{ background:url(../images/menu_li_bg.jpg) no-repeat; height:43px; line-height:43px; padding-left:30px; font-size:14px; color:#82846f; margin-top:10px;}
 .sidebar .contact_nr{ background:url(../images/left_lx_bg.jpg) repeat-x; padding:8px 15px; line-height:2.4em; font-size:13px;}
 
 .t1{ border-bottom:2px solid #aaa; position:relative; height:40px; line-height:40px;font-size:15px; font-weight:bold}
 .t1 a{ float:right;}
-.t1 span{ border-bottom:2px solid #005598; display:block; position:relative; width:80px;height:40px; line-height:40px;left:0; bottom:0px; color:#005598; text-align:center; }
+.t1 span{ border-bottom:2px solid #249d34; display:block; position:relative; width:80px;height:40px; line-height:40px;left:0; bottom:0px; color:#249d34; text-align:center; }
 
 .main_right{ width:740px;}
 .company{ width:410px;}
@@ -50,10 +50,16 @@
 
 
 /* foot */
-.foot{ background:url(../images/footer_bg.jpg) repeat-x; height:59px; padding-top:10px;line-height:25px; color:#FFF; }
-
+.foot{ background:#282921; height:59px; padding-top:10px;line-height:25px; color:#FFF; }
+.call-num {
+	font-weight: bold;
+}
+.small-txt {
+	color: #A3A3A3;
+	font-size: 14px;
+}
 /* 新闻列表页 */
-.main_right .title { height: 40px; line-height: 40px; color:#0061aa; border-bottom:1px solid #d9d9d9 }
+.main_right .title { height: 40px; line-height: 40px; color:#249d34; border-bottom:1px solid #249d34 }
 .main_right .title span { color:#ababab; background:url(../images/bg_home.gif) no-repeat left center; padding-left:20px;}
 .main_right .title span a{color:#ababab; }
 

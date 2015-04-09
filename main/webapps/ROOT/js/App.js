@@ -15,7 +15,7 @@
                             about:'about_us.html',
                             company:'honer.html',
                             news:'news_center.html',
-                            product:'product.html',
+                            product:'product-list.html',
                             call:'call_us.html'
                         }
                         return urlMap[spaceName]
@@ -41,7 +41,7 @@
                 views: {
                     'homeMain': {
                         templateUrl: function($stateParams) {
-                            if($stateParams.link=='video'){
+                            if($stateParams.link=='video'||$stateParams.link=='advance'){
                                 return 'product.html';
                             }else{
                                 return 'new_list.html';
@@ -53,7 +53,7 @@
                             var map = {
                                 company:'newsList',
                                 trend:'newsList',
-                                advance:'newsList',
+                                advance:'productCtrl',
                                 video:'productCtrl'
                             }
 
@@ -173,16 +173,19 @@
     }])
     myApp.controller('productCtrl',['$scope','$stateParams','$rootScope',function($scope,$stateParams,$rootScope){
         $rootScope.activeTab = $stateParams.spaceName;
+        var ajaxParams = {
+            locale: 'zh_cn',
+            network: 'GOOGLE',
+            params: {}
+        }
+
+        if($stateParams.link=='video'){
+            ajaxParams.params.IfRecommend = true;
+        }
         $.ajax({
             url:domain+'/api/email/select/product.json',
             type:'post',
-            data:JSON.stringify( {
-                locale: 'zh_cn',
-                network: 'GOOGLE',
-                params: {
-                    IfRecommend:true
-                }
-            }),
+            data:JSON.stringify(ajaxParams),
             dataType: 'json',
             crossDomain: true,
             success: function(data) {
